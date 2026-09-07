@@ -1,5 +1,7 @@
 # SUNTZU
 
+![SUNTZU](https://github.com/user-attachments/assets/d196a636-65be-42fa-9186-1b3fd7bf37f7)
+
 **The best complexity is the complexity you never fight.**
 
 KISS-first software engineering. Reduce the problem before enlarging the solution.
